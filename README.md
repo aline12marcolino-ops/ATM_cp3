@@ -1,8 +1,8 @@
 # Sistema de Caixa Eletrônico (ATM) em C
 
 ##  Integrantes do Grupo
-* [nome] - [rm]
-* [Aline Medri Marcolino] - [569349]
+* [Luis Fernando de Azevedo] - [RM574167]
+* [Aline Medri Marcolino] - [RM569349]
 
 ##  Descrição do Sistema
 Este projeto simula as operações básicas de um caixa eletrônico (ATM) através do terminal de comando. Desenvolvido como parte da avaliação da disciplina de Algoritmos e Programação do Prof. Érick.
