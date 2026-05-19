@@ -15,7 +15,7 @@ void menuUsuario(int indice) {
         printf("2 - Depositar\n");
         printf("3 - Sacar\n");
         printf("4 - Transferir\n");
-        printf("5 - Sair\n");
+        printf("0 - Sair\n");
 
         printf("Opcao: ");
         scanf("%d", &opcao);
@@ -38,7 +38,7 @@ void menuUsuario(int indice) {
                 transferir(indice);
                 break;
 
-            case 5:
+            case 0:
                 printf("Saindo...\n");
                 break;
 
@@ -46,7 +46,7 @@ void menuUsuario(int indice) {
                 printf("Opcao invalida!\n");
         }
 
-    } while(opcao != 5);
+    } while(opcao != 0);
 }
 
 void menuPrincipal() {
